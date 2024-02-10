@@ -18,6 +18,7 @@ list of things that I think are interesting either for everyday use or for speci
 
 - [ChatGPT](https://openai.com/blog/chatgpt) - A variant of the GPT language model that is specifically designed for generating human-like
   responses in conversational settings.
+- [Gemini](https://deepmind.google/technologies/gemini/#introduction) - A general AI model able to efficiently run on everything from data centers to mobile devices.
 
 ## Software Development
 
