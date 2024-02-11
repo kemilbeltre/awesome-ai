@@ -29,3 +29,6 @@ list of things that I think are interesting either for everyday use or for speci
 
 - [v0](https://v0.dev/) - v0 is a generative user interface system by Vercel powered by AI. It generates copy-and-paste friendly React
   code based on shadcn/ui and Tailwind CSS that people can use in their projects.
+- [Visual copilot](https://www.builder.io/c/docs/import-from-figma) - Visual Copilot is a workflow that leverages AI to the labor-intensive tasks
+  in moments. This workflow uses AI in Builder Figma to Code plugin's process, creating a responsive design in Builder's Visual Editor from the
+  Figma import, and in generating quality code.
