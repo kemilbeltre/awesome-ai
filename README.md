@@ -24,6 +24,7 @@ list of things that I think are interesting either for everyday use or for speci
 
 - [GitHub Copilot](https://github.com/features/copilot) - Trained on billions of lines of code, GitHub Copilot turns natural language
   prompts into coding suggestions across dozens of languages.
+- [Cody](https://sourcegraph.com/cody) - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.
 
 ### Frontend
 
